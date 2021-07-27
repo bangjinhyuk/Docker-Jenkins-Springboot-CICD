@@ -12,7 +12,7 @@ public class HelloApplication {
     public static void main(String[] args) {
         SpringApplication.run(HelloApplication.class,args);
         ApplicationContext context = ApplicationContextProvider.getContext();
-        CarDto carDto = context.getBean(com.example.hello.dto.CarDto.class);
+//        CarDto carDto = context.getBean(com.example.hello.dto.CarDto.class);
     }
 
 }
