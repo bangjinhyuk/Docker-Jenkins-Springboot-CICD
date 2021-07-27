@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9acdb85f-af6e-426a-8b8e-c4358f752262" name="Default Changelist" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1627309890218" duration="81000" />
       <workItem from="1627381105998" duration="78000" />
       <workItem from="1627381187439" duration="891000" />
-      <workItem from="1627391363135" duration="8676000" />
+      <workItem from="1627391363135" duration="9709000" />
     </task>
     <task id="LOCAL-00001" summary="[CI/CD]docker(jenkins) to docker(spring) test">
       <created>1627391465142</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627401457017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update README.md">
+      <created>1627403192447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627403192447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

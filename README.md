@@ -4,6 +4,9 @@
  - cafe24 가상 리눅스 서버 (ubuntu 20.04)
  - Spring boot 
  - openjdk 11
+## 목표 
+![Architecture](./img/ArchitectureExam.001.jpeg)
+
 ### 7/27 
  1. 도커 설치 및 docker-compose 설치 
  2. 기본 예제 Spring boot 프로젝트 준비 localhost:9090/api/hello에 접속을 통해 문장 춣력 
