@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acdb85f-af6e-426a-8b8e-c4358f752262" name="Default Changelist" comment="[CI/CD]docker(jenkins) to docker(spring) test 2">
-      <change afterPath="$PROJECT_DIR$/img/Developer settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/credentials.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/webhook.png" afterDir="false" />
+    <list default="true" id="9acdb85f-af6e-426a-8b8e-c4358f752262" name="Default Changelist" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -88,7 +85,7 @@
       <workItem from="1627309890218" duration="81000" />
       <workItem from="1627381105998" duration="78000" />
       <workItem from="1627381187439" duration="891000" />
-      <workItem from="1627391363135" duration="6988000" />
+      <workItem from="1627391363135" duration="8676000" />
     </task>
     <task id="LOCAL-00001" summary="[CI/CD]docker(jenkins) to docker(spring) test">
       <created>1627391465142</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627395435246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update README.md">
+      <created>1627401457017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627401457017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[CI/CD]docker(jenkins) to docker(spring) test" />
     <MESSAGE value="[CI/CD]docker(jenkins) to docker(spring) test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="[CI/CD]docker(jenkins) to docker(spring) test 2" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
