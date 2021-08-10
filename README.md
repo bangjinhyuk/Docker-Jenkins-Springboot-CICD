@@ -154,3 +154,5 @@
         exit
         EOF
     ```
+### 8/17
+ 1. [nginx Load-Balancing 공부](https://blog.neonkid.xyz/229#)
